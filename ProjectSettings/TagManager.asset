@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Environment_BehindPlayer_ColorFull
+    uniqueID: 3857924797
+    locked: 0
+  - name: Environment_BehindPlayer_Gray
+    uniqueID: 710967767
+    locked: 0
+  - name: Player
+    uniqueID: 1115121657
+    locked: 0
+  - name: Environment_FrontPlayer
+    uniqueID: 1175136567
+    locked: 0
