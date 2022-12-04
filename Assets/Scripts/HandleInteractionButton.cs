@@ -51,8 +51,6 @@ public class HandleInteractionButton : MonoBehaviour , MMEventListener<CorgiEngi
     {
         if (eventType.EventType == CorgiEngineEventTypes.SpawnCharacterStarts)
         {
-            _character = FindObjectOfType<Character>(true);
-
             Debug.Log("Character Assigned");
         }
     }
@@ -66,9 +64,15 @@ public class HandleInteractionButton : MonoBehaviour , MMEventListener<CorgiEngi
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.tag.Equals("Interactable"))
+        if (other.tag.Equals("Player"))
         {
             _isInInteractionArea = true;
+            
+            _character = FindObjectOfType<Character>(true);
+            
+            _character.ShowFButton();
+            
+            // TODO : Show F;
 
             Debug.Log("Player in Interaction Area");
         }
@@ -76,9 +80,15 @@ public class HandleInteractionButton : MonoBehaviour , MMEventListener<CorgiEngi
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.tag.Equals("Interactable"))
+        if (other.tag.Equals("Player"))
         {
             _isInInteractionArea = false;
+            
+            _character = FindObjectOfType<Character>(true);
+            
+            _character.HideFButton();
+            
+            //TODO : Hide F;
         
             Debug.Log("Player Got Out of Interaction Area");
         }

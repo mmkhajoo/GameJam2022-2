@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 03bda10894e463e4d813783c6bc88282
+=======
+guid: 8c3f4b8657985ce4793cece4a6e43983
+>>>>>>> feature/Dialogue_System
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
