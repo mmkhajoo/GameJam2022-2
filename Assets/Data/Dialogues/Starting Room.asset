@@ -225,7 +225,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Welcome to the city of Passion
+        value: <wave>WELCOME</wave> to the city of <color=#00ffffff>Modeerf</color>
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -254,7 +254,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 56.176453
-        y: 84.061844
+        y: 82.88536
         width: 160
         height: 30
     - id: 2
@@ -280,7 +280,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Passion is the best place in terms of happiness and freedom!
+        value: <color=#00ffffff>Modeerf</color> is the best place in terms of  <br>
+          <rainb><color=yellow>happiness</color></rainb> and <rainb><color=yellow>freedom!</color></rainb>
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -335,7 +336,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: You can buy anything from Vending Machine.
+        value: You can buy anything from <color=yellow>Vending Machine</color>.
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -390,7 +391,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Even happiness!
+        value: Even <wave><color=yellow>happiness!</color></wave>
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -418,8 +419,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 55.999985
-        y: 234.06184
+        x: 57.176453
+        y: 232.88539
         width: 160
         height: 30
     - id: 5
@@ -445,7 +446,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: To earn money, go wherever Pasion asks for.
+        value: To earn <color=yellow>money</color>, go wherever <color=#00ffffff>Modeerf</color>
+          asks for.
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -500,7 +502,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: To the right or to the left.
+        value: To the <color=yellow>Right</color> or to the <color=yellow>Left</color>.
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -528,7 +530,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 55.999985
+        x: 57.176468
         y: 334.06183
         width: 160
         height: 30
@@ -555,7 +557,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Right and left are signs of the salvation of our city.
+        value: <color=yellow>Right</color> and <color=yellow>Left</color> are signs
+          of the <color=red><bounce>SALVATION</bounce></color=red> of our city.
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -610,7 +613,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Follow them to stay happy forever!
+        value: Follow them to stay <rainb>HAPPY</rainb> forever!
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -763,8 +766,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Since I can remember, it was just
-          me and my very best friend, <color=red>Passion</color>.'
+        value: '<color=#ff00ffff>Ariana</color> : Since I can remember, it was just
+          me and my very best friend, <color=#00ffffff>Modeerf</color>.'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -819,7 +822,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : He knows everything very well.'
+        value: '<color=#ff00ffff>Ariana</color> : He knows everything very well.'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -874,7 +877,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : i just have to listen'
+        value: '<color=#ff00ffff>Ariana</color> : i just have to <incr>LISTEN</incr>'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1027,8 +1030,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : But I always felt that something was
-          wrong.'
+        value: '<color=#ff00ffff>Ariana</color> : But I always felt that something
+          was <color=red>WRONG</color=yellow>.'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1083,8 +1086,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : I always hoped something better would
-          happen.'
+        value: "<color=#ff00ffff>Ariana</color> : I always <color=\t#00ff00ff>hoped</color>
+          something better would happen."
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1139,8 +1142,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : <color=red>Passion</color> is the
-          best!'
+        value: '<color=#ff00ffff>Ariana</color> : <color=#00ffffff>Modeerf</color>
+          is the best!'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1293,7 +1296,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : I am trying very well.'
+        value: '<color=#ff00ffff>Ariana</color> : I am trying very well.'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1348,7 +1351,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : But I feel empty inside!'
+        value: '<color=#ff00ffff>Ariana</color> : But I feel <color=yellow>empty</color=yellow>
+          inside!'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1403,7 +1407,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Maybe I''m not listening well enough.'
+        value: '<color=#ff00ffff>Ariana</color> : Maybe I''m not listening well enough.'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1458,7 +1462,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Maybe I''m not going to the right
+        value: '<color=#ff00ffff>Ariana</color> : Maybe I''m not going to the <color=yellow>Right</color=yellow>
           side well enough!'
         type: 0
         typeString: CustomFieldType_Text
@@ -1612,7 +1616,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : I sense no difference at all!'
+        value: '<color=#ff00ffff>Ariana</color> : I sense no difference at all!'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1667,7 +1671,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Maybe <color=red>Passion</color>...
+        value: '<color=#ff00ffff>Ariana</color> : Maybe <color=#00ffffff>Modeerf</color>...
           can it be...'
         type: 0
         typeString: CustomFieldType_Text
@@ -1723,7 +1727,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : No!!... <color=red>Passion</color>
+        value: '<color=#ff00ffff>Ariana</color> : <shake>No!!</shake>... <color=#00ffffff>Modeerf</color>
           is my dear friend...'
         type: 0
         typeString: CustomFieldType_Text
@@ -1779,8 +1783,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : But why do I always feel like a failure
-          if it''s my friend?'
+        value: '<color=#ff00ffff>Ariana</color> : But why do I always feel like a
+          <wiggle><color=red>failure</color=red></wiggle> if it''s my friend?'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1835,7 +1839,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Failure and a sense of deep sadness.'
+        value: '<color=#ff00ffff>Ariana</color> : <color=red>Failure</color=red>
+          and a sense of deep<color=red> sadness</color=red>.'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1890,7 +1895,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Even with all the hard work I did.'
+        value: '<color=#ff00ffff>Ariana</color> : Even with all the <color=yellow>hard
+          work</color=yellow> I did.'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1945,7 +1951,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Maybe it''s time to try a new way.'
+        value: '<color=#ff00ffff>Ariana</color> : Maybe it''s time to try a <incr><color=yellow>new
+          way</color=yellow></incr>.'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -2000,8 +2007,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : don''t want to listen to <color=red>Passion''s</color>
-          words anymore !!'
+        value: '<color=#ff00ffff>Ariana</color> : I <shake>don''t want</shake> to
+          listen to <color=#00ffffff>Modeerf</color> words <shake><color=red>ANYMORE</color=red></shake>
+          !!'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -2028,8 +2036,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1
+    canvasScrollPosition: {x: 23.683714, y: 78.94913}
+    canvasZoom: 1.03
   - id: 6
     fields:
     - title: Title
@@ -2154,7 +2162,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : What heppened?'
+        value: '<color=#ff00ffff>Ariana</color>: <dangle>What heppened?</dangle>'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -2209,7 +2217,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Why are''t these gray anymore?'
+        value: '<color=#ff00ffff>Ariana</color> : Why are''t these <dangle><color=#c0c0c0ff>GRAY</color></dangle>
+          anymore?'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -2362,7 +2371,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: You can see colors now.
+        value: You can see colors <color=red>NOW</color=yellow>.
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -2417,7 +2426,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: This color is <color=red>Red</color>.
+        value: This color is <color=red><bounce>RED</bounce></color>.
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -2472,7 +2481,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Welcome to the colorful world!
+        value: Welcome to the <rainb><wave>Colorful World!</wave></rainb>
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
