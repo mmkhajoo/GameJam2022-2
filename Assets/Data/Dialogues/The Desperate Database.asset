@@ -221,7 +221,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : I can''t go on anymore.'
+        value: '<color=#2596be>The Desperate</color> : I <color=yellow>can''t</color>
+          go on <incr>anymore</incr>.'
         type: 0
         typeString: 
       - title: Sequence
@@ -276,8 +277,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : <color=red>Passion</color>
-          was lying.'
+        value: '<color=#2596be>The Desperate</color> : <color=#ffa500ff>Modeerf</color>
+          was <color=red>lying</color>.'
         type: 0
         typeString: 
       - title: Sequence
@@ -332,7 +333,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : He always lied!'
+        value: '<color=#2596be>The Desperate</color> : He always <shake><color=red>lied!</color=red></shake>'
         type: 0
         typeString: 
       - title: Sequence
@@ -387,7 +388,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : I want to die!'
+        value: '<color=#2596be>The Desperate</color> : I want to <shake><color=red>DIE!</color=red></shake>'
         type: 0
         typeString: 
       - title: Sequence
@@ -442,7 +443,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : The sooner the better!'
+        value: '<color=#2596be>The Desperate</color> : The <incr>sooner</incr> the
+          <incr>better!</incr>'
         type: 0
         typeString: 
       - title: Sequence
@@ -497,7 +499,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : Dead, why aren''t I dead yet?'
+        value: '<color=#2596be>The Desperate</color> : <dangle>Dead</dangle>, why
+          aren''t I <color=red>dead </color>yet?'
         type: 0
         typeString: 
       - title: Sequence
@@ -552,8 +555,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : So you also understood that the Passion
-          was lying.'
+        value: '<color=#ff00ffff>Ariana</color> : So you also understood that the
+          <color=#ffa500ff>Modeerf</color> was lying.'
         type: 0
         typeString: 
       - title: Sequence
@@ -608,7 +611,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : You saw the color too!'
+        value: '<color=#ff00ffff>Ariana</color> : You saw the <rainb>color</rainb>
+          too!'
         type: 0
         typeString: 
       - title: Sequence
@@ -663,8 +667,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Why don''t you make any effort then
-          !?'
+        value: '<color=#ff00ffff>Ariana</color> : Why don''t you make any<wave><color=yellow>effort</color></wave>
+          then !?'
         type: 0
         typeString: 
       - title: Sequence
@@ -719,7 +723,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : Life''s empty!'
+        value: '<color=#2596be>The Desperate</color> : Life''s <dangle><color=#c0c0c0ff>empty!</color><dangle>'
         type: 0
         typeString: 
       - title: Sequence
@@ -774,8 +778,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : I don''t want to do anything
-          more in this life.'
+        value: '<color=#2596be>The Desperate</color> : I <dangle>don''t want</dangle>
+          to do anything more in <dangle>this life</dangle>'
         type: 0
         typeString: 
       - title: Sequence
@@ -830,7 +834,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : I just want to die'
+        value: '<color=#2596be>The Desperate</color> : I just want to <dangle><color=red>die</color></dangle>'
         type: 0
         typeString: 
       - title: Sequence
@@ -885,7 +889,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Life''s not limited to Passion.'
+        value: '<color=#ff00ffff>Ariana</color> : Life''s not limited to <color=#ffa500ff>Modeerf</color>.'
         type: 0
         typeString: 
       - title: Sequence
@@ -940,8 +944,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : I''m certain there''s a lot more for
-          you to see.'
+        value: '<color=#ff00ffff>Ariana</color> : I''m certain there''s <wave><color=yellow>a
+          lot more</color=yellow></wave> for you to see.'
         type: 0
         typeString: 
       - title: Sequence
@@ -996,8 +1000,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : I can feel the upcoming beauty. I
-          can feel it.'
+        value: '<color=#ff00ffff>Ariana</color> : I can feel the <wave><color=yellow>upcoming
+          beauty</color></wave> . I can feel it.'
         type: 0
         typeString: 
       - title: Sequence
@@ -1052,8 +1056,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : You hopeful girl, this hope
-          will kill you at last.'
+        value: '<color=#2596be>The Desperate</color> : <dangle>You hopeful girl</dangle>,
+          this hope will <color=red><dangle>kill</dangle></color> you at last.'
         type: 0
         typeString: 
       - title: Sequence
@@ -1108,8 +1112,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : You''re doing nothing but a
-          waste of time.'
+        value: '<color=#2596be>The Desperate</color> : You''re doing nothing but
+          a <color=yellow><dangle>waste of time</dangle></color>.'
         type: 0
         typeString: 
       - title: Sequence
@@ -1138,7 +1142,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 28.936172
-        y: 864.8723
+        y: 864.0028
         width: 160
         height: 30
     - id: 18
@@ -1164,8 +1168,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Let disappointment be your boldest
-          red line!'
+        value: '<color=#ff00ffff>Ariana</color> : Let <color=#2596be>Disappointment</color>
+          be your <incr>Boldest</incr> <color=red>Red Line!</color>'
         type: 0
         typeString: 
       - title: Sequence
@@ -1220,8 +1224,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Only the one who tries has the right
-          to hope !!'
+        value: '<color=#ff00ffff>Ariana</color> : Only the one who <color=yellow>Tries</color>
+          has the right to <color=#00ff00ff>Hope</color> !!'
         type: 0
         typeString: 
       - title: Sequence
@@ -1276,8 +1280,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Desperate</color> : Leave me alone. I just want
-          to die, say no more .'
+        value: '<color=#2596be>The Desperate</color> : Leave me <shake><color=red>ALONE</color></shake>.
+          I just want to <dangle>die</dangle>, say <dangle>no more</dangle>.'
         type: 0
         typeString: 
       - title: Sequence
@@ -1300,12 +1304,12 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 28.936172
-        y: 1014.8723
+        y: 1013.73584
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 6.849304, y: 0}
-    canvasZoom: 0.73000014
+    canvasScrollPosition: {x: 0, y: 556.1063}
+    canvasZoom: 0.8800001
   syncInfo:
     syncActors: 0
     syncItems: 0
