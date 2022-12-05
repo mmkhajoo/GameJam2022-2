@@ -225,7 +225,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: <wave>WELCOME</wave> to the city of <color=#00ffffff>Modeerf</color>
+        value: <wave><color=yellow>WELCOME</color></wave> to the city of <bounce><color=#ffa500ff>Modeerf</color></bounce>
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -280,7 +280,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: <color=#00ffffff>Modeerf</color> is the best place in terms of  <br>
+        value: <color=#ffa500ff>Modeerf</color> is the best place in terms of  <br>
           <rainb><color=yellow>happiness</color></rainb> and <rainb><color=yellow>freedom!</color></rainb>
         type: 0
         typeString: CustomFieldType_Text
@@ -446,7 +446,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: To earn <color=yellow>money</color>, go wherever <color=#00ffffff>Modeerf</color>
+        value: To earn <color=yellow>money</color>, go wherever <color=#ffa500ff>Modeerf</color>
           asks for.
         type: 0
         typeString: CustomFieldType_Text
@@ -767,7 +767,7 @@ MonoBehaviour:
         typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: '<color=#ff00ffff>Ariana</color> : Since I can remember, it was just
-          me and my very best friend, <color=#00ffffff>Modeerf</color>.'
+          me and my very best friend, <color=#ffa500ff>Modeerf</color>.'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1086,8 +1086,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "<color=#ff00ffff>Ariana</color> : I always <color=\t#00ff00ff>hoped</color>
-          something better would happen."
+        value: '<color=#ff00ffff>Ariana</color> : I always <color=#00ff00ff>hoped</color>
+          something better would happen.'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1142,7 +1142,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=#ff00ffff>Ariana</color> : <color=#00ffffff>Modeerf</color>
+        value: '<color=#ff00ffff>Ariana</color> : <color=#ffa500ff>Modeerf</color>
           is the best!'
         type: 0
         typeString: CustomFieldType_Text
@@ -1671,7 +1671,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=#ff00ffff>Ariana</color> : Maybe <color=#00ffffff>Modeerf</color>...
+        value: '<color=#ff00ffff>Ariana</color> : Maybe <color=#ffa500ff>Modeerf</color>...
           can it be...'
         type: 0
         typeString: CustomFieldType_Text
@@ -1727,7 +1727,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=#ff00ffff>Ariana</color> : <shake>No!!</shake>... <color=#00ffffff>Modeerf</color>
+        value: '<color=#ff00ffff>Ariana</color> : <shake d=0>No!!</shake>  <color=#ffa500ff>Modeerf</color>
           is my dear friend...'
         type: 0
         typeString: CustomFieldType_Text
@@ -1839,8 +1839,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=#ff00ffff>Ariana</color> : <color=red>Failure</color=red>
-          and a sense of deep<color=red> sadness</color=red>.'
+        value: '<color=#ff00ffff>Ariana</color> : <wiggle><color=red>Failure</color=red></wiggle>
+          and a sense of deep<color=red> <wiggle>sadness</wiggle></color=red>.'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -2008,7 +2008,7 @@ MonoBehaviour:
         typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: '<color=#ff00ffff>Ariana</color> : I <shake>don''t want</shake> to
-          listen to <color=#00ffffff>Modeerf</color> words <shake><color=red>ANYMORE</color=red></shake>
+          listen to <color=#ffa500ff>Modeerf</color> words <shake><color=red>ANYMORE</color=red></shake>
           !!'
         type: 0
         typeString: CustomFieldType_Text
@@ -2036,8 +2036,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 23.683714, y: 78.94913}
-    canvasZoom: 1.03
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.97
   - id: 6
     fields:
     - title: Title

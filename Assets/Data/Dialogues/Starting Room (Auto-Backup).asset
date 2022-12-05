@@ -225,7 +225,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: <wave>WELCOME</wave> to the city of <color=#00ffffff>Modeerf</color>
+        value: <wave>WELCOME</wave> to the city of <color=#873e23>Modeerf</color>
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence

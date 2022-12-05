@@ -221,8 +221,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : What are you doing, you''re risking
-          everyone''s life.'
+        value: '<color=#ff00ffff>Ariana</color> : <shake a=0.5>What are you doing</shake>,
+          you''re <color=red>risking</color> everyone''s life.'
         type: 0
         typeString: 
       - title: Sequence
@@ -277,7 +277,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Extremist</color> : There''s only one way for freedom.'
+        value: '<color=red>The Extremist</color> : There''s only <incr>one way</incr>
+          for <color=#00ffffff>freedom</color>.'
         type: 0
         typeString: 
       - title: Sequence
@@ -332,8 +333,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Extremist</color> : And it''s by destroying everything
-          that Passion has built before.'
+        value: '<color=red>The Extremist</color> : And it''s by <color=red><wave>destroying</wave></color>
+          everything that <color=#ffa500ff>Modeerf</color> has built before.'
         type: 0
         typeString: 
       - title: Sequence
@@ -388,8 +389,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Extremist</color> : Get out of my way or I''ll
-          destroy you too.'
+        value: '<color=red>The Extremist</color> : <shake a=0.5>Get out of my way</shake>
+          or I''ll <color=red><shake a=0.5>destroy</color> you</shake> too.'
         type: 0
         typeString: 
       - title: Sequence
@@ -444,8 +445,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "<color=yellow>Ariana</color> :\r Why are you doing this? That's not
-          the way."
+        value: "<color=#ff00ffff>Ariana</color>:\r  Why are you doing this? That's
+          <color=yellow><shake a=0.5>not the way</shake></color> ."
         type: 0
         typeString: 
       - title: Sequence
@@ -500,8 +501,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : If you do this, you''re no different
-          than <color=red>Passion</color>.'
+        value: '<color=#ff00ffff>Ariana</color> : If you do this, you''re <color=yellow>no
+          different</color> than <color=#ffa500ff>Modeerf</color>.'
         type: 0
         typeString: 
       - title: Sequence
@@ -556,8 +557,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : We have to save people, not destroy
-          them'
+        value: '<color=#ff00ffff>Ariana</color> : We have to <color=yellow>save</color>
+          people, not <color=red>destroy</color> them'
         type: 0
         typeString: 
       - title: Sequence
@@ -612,8 +613,9 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Extremist</color> : I can see just a silly girl
-          trying to tell people what they don''t wanna hear.'
+        value: '<color=red>The Extremist</color> : I can see just a <color=red><shake
+          a=0.5>silly girl</shake></color> trying to tell people what they don''t
+          wanna hear.'
         type: 0
         typeString: 
       - title: Sequence
@@ -668,63 +670,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Extremist</color> : I hope you understand that,
-          extintion is the only way that remains'
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 1
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 1
-        originDialogueID: 9
-        destinationConversationID: 1
-        destinationDialogueID: 10
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      onExecute:
-        m_PersistentCalls:
-          m_Calls: []
-      canvasRect:
-        serializedVersion: 2
-        x: 28
-        y: 465
-        width: 160
-        height: 30
-    - id: 10
-      fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: Actor
-        value: 1
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: '<color=red>Security</color> : Arrest them.'
+        value: '<color=red>The Extremist</color> : I hope you understand that, <color=red><shake
+          a=0.5>extintion</shake></color> is the only way that remains'
         type: 0
         typeString: 
       - title: Sequence
@@ -746,12 +693,12 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 31
-        y: 515
+        x: 28
+        y: 465
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 11.886587, y: 140.53607}
+    canvasScrollPosition: {x: 0, y: 0}
     canvasZoom: 1
   syncInfo:
     syncActors: 0

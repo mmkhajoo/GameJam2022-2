@@ -225,8 +225,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: <color=yellow>Ariana</color> :<wave>Hello!</wave> Finally, I see a
-          real person up close!
+        value: '<color=#ff00ffff>Ariana</color> : <wave>Helloo!</wave> Finally, I
+          see a <color=yellow>real person</color> up close!'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -281,8 +281,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>The Slave</color> : Get lost! You are stopping me from
-          making money!'
+        value: '<color=#c0c0c0ff>The Slave</color> : <color=red><shake>Get lost!</shake></color=red>
+          You are stopping me from making money!'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -337,7 +337,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : ...'
+        value: '<color=#ff00ffff>Ariana</color> : ...'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -392,7 +392,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : I found a way to see the colors!'
+        value: '<color=#ff00ffff>Ariana</color> : I found a way to see the<rainb>
+          colors!</rainb>'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -447,7 +448,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : They are wonderful !'
+        value: '<color=#ff00ffff>Ariana</color> : They are <wave><color=yellow>wonderful
+          !</color=yellow></wave>'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -502,7 +504,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: '<color=yellow>The Slave</color> : What are you saying, dumb girl?'
+        value: '<color=#c0c0c0ff>The Slave</color> : What are you saying, <shake>dumb
+          girl?</shake>'
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -557,7 +560,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Slave</color> : There is no such thing as color.'
+        value: '<color=#c0c0c0ff>The Slave</color> : There is <shake>no</shake> such
+          thing as color.'
         type: 0
         typeString: 
       - title: Sequence
@@ -612,8 +616,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Slave</color> : Go ahead, <color=red>Passion</color>
-          will be upset if I waste my time.'
+        value: '<color=#c0c0c0ff>The Slave</color> : <shake><color=red>Go ahead</color></shake>,
+          <color=#ffa500ff>Modeerf</color> will be upset if I waste my time.'
         type: 0
         typeString: 
       - title: Sequence
@@ -668,7 +672,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : Wait, Listen to me a second.'
+        value: '<color=#ff00ffff>Ariana</color> : Wait, Listen to me a second.'
         type: 0
         typeString: 
       - title: Sequence
@@ -723,8 +727,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : <color=red>Passion''s</color> words
-          are all lies.'
+        value: '<color=#ff00ffff>Ariana</color> : <color=#ffa500ff>Modeerf</color>
+          words are all <color=red><wiggle>lies</wiggle></color>'
         type: 0
         typeString: 
       - title: Sequence
@@ -753,7 +757,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 29
-        y: 519
+        y: 520.0989
         width: 160
         height: 30
     - id: 11
@@ -779,7 +783,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : The world has a lot more to see .'
+        value: '<color=#ff00ffff>Ariana</color> : The world has<incr> a lot more</incr>
+          to see .'
         type: 0
         typeString: 
       - title: Sequence
@@ -834,7 +839,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Slave</color> : What?! Do you disbelieve?!'
+        value: '<color=#c0c0c0ff>The Slave</color> : <shake>What?!</shake> Do you
+          disbelieve?!'
         type: 0
         typeString: 
       - title: Sequence
@@ -889,7 +895,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Slave</color> : What an unfortunate for you.'
+        value: '<color=#c0c0c0ff>The Slave</color> : What an unfortunate for <incr>you</incr>.'
         type: 0
         typeString: 
       - title: Sequence
@@ -944,8 +950,9 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Slave</color> : Although you ignored doing your
-          tasks, you''re here to stop me from doing mine!'
+        value: '<color=#c0c0c0ff>The Slave</color> : Although you <color=yellow>ignored</color=yellow>
+          doing your <color=yellow>tasks</color=yellow>, you''re here to <color=yellow>stop</color>
+          me from doing mine!'
         type: 0
         typeString: 
       - title: Sequence
@@ -1000,7 +1007,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Slave</color> : <color=red>Disbeliever</color>'
+        value: '<color=#c0c0c0ff>The Slave</color> : <shake><color=red>Disbeliever</color></shake>'
         type: 0
         typeString: 
       - title: Sequence
@@ -1028,7 +1035,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 29
+        x: 27.901108
         y: 768
         width: 160
         height: 30
@@ -1055,8 +1062,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : He can''t even hear what I''m saying.
-          he''s obsessed with <color=red>Passion</color>.'
+        value: '<color=#ff00ffff>Ariana</color> : He <color=yellow>can''t</color=yellow>
+          even hear what I''m saying. he''s <color=red>obsessed</color> with <color=#ffa500ff>Modeerf</color>.'
         type: 0
         typeString: 
       - title: Sequence
@@ -1083,8 +1090,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 1.0638123, y: 0}
-    canvasZoom: 0.94000006
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.87999994
   syncInfo:
     syncActors: 0
     syncItems: 0
