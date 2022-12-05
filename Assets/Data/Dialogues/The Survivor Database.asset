@@ -221,7 +221,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Survivor</color> : Stunning, isn''t it?'
+        value: '<color=green>The Survivor</color> : <incr><color=yellow>Stunning</color></incr>,
+          isn''t it?'
         type: 0
         typeString: 
       - title: Sequence
@@ -276,7 +277,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\r<color=yellow>Ariana</color> : Yea it's really beautiful"
+        value: "\r<color=#ff00ffff>Ariana</color> : Yea it's really beautiful"
         type: 0
         typeString: 
       - title: Sequence
@@ -331,8 +332,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Survivor</color> : We''re really going to enjoy
-          the life from now? can u believe it?'
+        value: '<color=green>The Survivor</color> : We''re really going to <color=yellow>enjoy</color>
+          the life from now?<swing> can u believe it?</swing>'
         type: 0
         typeString: 
       - title: Sequence
@@ -387,7 +388,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : What about Others left in the city?'
+        value: '<color=#ff00ffff>Ariana</color> : What about <color=yellow>Others</color>
+          left in the city?'
         type: 0
         typeString: 
       - title: Sequence
@@ -442,8 +444,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>The Survivor</color> : Their find their own way, I
-          hope.'
+        value: '<color=green>The Survivor</color> : Their find their own way, <incr>I
+          hope.</incr>'
         type: 0
         typeString: 
       - title: Sequence
@@ -498,10 +500,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : This is what I wanted all my life
-          and it doesn''t feel right yet.
-
-          I'
+        value: '<color=#ff00ffff>Ariana</color> : This is what I wanted all my life
+          and <dangle>it doesn''t feel right yet.</dangle>'
         type: 0
         typeString: 
       - title: Sequence
@@ -556,8 +556,9 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: '<color=yellow>Ariana</color> : I can''t go on like this, not without
-          my people, I won''t leave them behind.'
+        value: '<color=#ff00ffff>Ariana</color> : I can''t go on like this, <shake
+          a=0.25><color=red>not without my people</color></shake>,  <incr>I won''t
+          leave them behind</incr>.'
         type: 0
         typeString: 
       - title: Sequence
@@ -584,7 +585,7 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 0}
+    canvasScrollPosition: {x: 8.597924, y: 11.381442}
     canvasZoom: 1
   syncInfo:
     syncActors: 0

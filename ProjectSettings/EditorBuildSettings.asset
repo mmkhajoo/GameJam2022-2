@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/WLF/Scenes/MainMenu.unity
+    path: Assets/WLF/Scenes/Level 0 - MainMenu.unity
     guid: 5edc2c1b3e045304bbecba41b0d449e7
   - enabled: 1
-    path: Assets/WLF/Scenes/StartingRoom - Ariana - Level 1.unity
+    path: Assets/WLF/Scenes/Level 1 -  Ariana.unity
     guid: dc6b14e94310cd746a9f2cde48d0787c
   - enabled: 1
     path: Assets/WLF/Scenes/Level 2.unity
@@ -33,9 +33,9 @@ EditorBuildSettings:
     path: Assets/WLF/Scenes/Level 8.unity
     guid: a5316eb82e7567f41951c16340dd6053
   - enabled: 1
-    path: Assets/WLF/Scenes/Level 9.unity
+    path: Assets/WLF/Scenes/Level 9 - The Survivor.unity
     guid: 2da14c08331e26948be3ba66e8a068e1
   - enabled: 1
-    path: Assets/WLF/Scenes/EndingScene.unity
+    path: Assets/WLF/Scenes/Level 10 - EndingScene.unity
     guid: 1f6436a4d18aff145bd121045c311e5e
   m_configObjects: {}
