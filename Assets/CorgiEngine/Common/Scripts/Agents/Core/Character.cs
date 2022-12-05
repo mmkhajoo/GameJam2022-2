@@ -805,6 +805,8 @@ namespace MoreMountains.CorgiEngine
             }
 
             ConditionState.ChangeState(CharacterStates.CharacterConditions.Frozen);
+            
+            MovementState.ChangeState(CharacterStates.MovementStates.Idle);
         }
 
         protected CharacterStates.CharacterConditions _conditionStateBeforeFreeze;
